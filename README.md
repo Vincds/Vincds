@@ -84,12 +84,12 @@ I'm continuously expanding my technical toolkit with:
 
 ---
 
-## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vdisario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vin.disario@gmail.com)
-[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vincenzo.di.sario/vizzes)
+## 📧 Let's Connect
 
+💼 **[LinkedIn](https://www.linkedin.com/in/vdisario)**  
+📧 **[vin.disario@gmail.com](mailto:vin.disario@gmail.com)**  
+📊 **[Tableau Public Profile](https://public.tableau.com/app/profile/vincenzo.di.sario)**
 ---
 
 
