@@ -108,6 +108,3 @@ I'm open to **Data Analyst** and **Business Intelligence Analyst** opportunities
 
 *Last Updated: December 2025*
 
----
-
-**⭐ If you find my projects useful, feel free to star the repositories!**
