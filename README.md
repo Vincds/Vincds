@@ -92,9 +92,6 @@ I'm continuously expanding my technical toolkit with:
 📊 **[Tableau Public Profile](https://public.tableau.com/app/profile/vincenzo.di.sario)**
 ---
 
-
-## 💡 What I'm Looking For
-
 I'm open to **Data Analyst** and **Business Intelligence Analyst** opportunities where I can:
 - Build scalable analytics pipelines and dashboards
 - Translate business questions into data-driven insights
@@ -102,6 +99,15 @@ I'm open to **Data Analyst** and **Business Intelligence Analyst** opportunities
 - Drive measurable business impact through analytics
 
 **Location Preference:** Barcelona (hybrid/remote) or Remote (Europe)
+
+--
+## 📄 Resume / CV
+
+For a complete overview of my experience and qualifications:
+
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/uc?export=download&id=1Ce52XOwxf_2wrtMo0b-h_N6zie3h4iiV)
+
+--
 
 ---
 
