@@ -34,11 +34,6 @@ Complete analytics workflow transforming 4,184 messy delivery orders into strate
 - **SQL Analytics Layer** - Built customer retention KPIs, churn cascade analysis, promotional ROI metrics using window functions and CTEs
 - **Dual Dashboard Strategy** - Power BI for insight storytelling (retention crisis, discount inefficiencies), Tableau for self-service exploration
 
-**Business Impact:**
-- Uncovered 65% first-order churn crisis with €28-30K recovery opportunity through loyalty program
-- Identified €11.7K annual margin erosion from over-discounting (17.6% vs 10-12% benchmark)
-- Quantified promotional efficiency gaps (SXGY promos outperform blanket discounts 3:1 in ROI)
-
 **Key Skills:** Data Quality Assessment, Customer Segmentation, Retention Analysis, KPI Design, Financial Modeling, Data Storytelling
 
 **[📂 View Project](https://github.com/Vincds/Restaurant-data-analysis)** | **[📊 Live Tableau Dashboard](https://public.tableau.com/app/profile/vincenzo.di.sario/vizzes)**
