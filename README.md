@@ -40,8 +40,7 @@ Complete analytics workflow transforming 4,184 messy delivery orders into strate
 
 ---
 
-### 📈 [Project 2 Title - Coming Soon]
-*Additional professional projects will be added here as portfolio expands*
+## 📚 Learning & Practice Projects
 
 ---
 
