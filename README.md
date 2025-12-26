@@ -42,6 +42,30 @@ Complete analytics workflow transforming 4,184 messy delivery orders into strate
 
 ## 📚 Learning & Practice Projects
 
+### 🏗️ [SQL Data Warehouse](https://github.com/Vincds/sql-data-warehouse)
+**SQL Server · ETL Pipelines · Star Schema Modeling**
+
+Built a complete data warehouse from scratch using the Medallion Architecture (Bronze, Silver, Gold layers) to understand the upstream data engineering processes that enable analytics work.
+
+**What I Built:**
+- **Bronze Layer (Raw Ingestion)** - Implemented full-load ETL with `BULK INSERT`, error handling (`TRY/CATCH`), and performance measurement
+- **Silver Layer (Data Quality)** - Applied deduplication (`ROW_NUMBER()`), standardization (`CASE WHEN`), null handling, date enrichment (`LEAD()`), and business rule validation
+- **Gold Layer (Star Schema)** - Created fact and dimension tables with surrogate keys, integrated multi-source data (ERP + CRM), built analyst-friendly views
+
+**Why This Project:**
+
+As a data analyst, I realized I had a critical knowledge gap: I didn't understand how data arrived in its analysis-ready state. By building this warehouse myself, I learned:
+- **Data Lineage:** How to trace transformations from source to final model
+- **Data Quality Patterns:** Why duplicates, nulls, and inconsistencies occur and how to fix them at the source
+- **Modeling Decisions:** Why star schemas use surrogate keys and how integration rules work
+- **Engineer Collaboration:** How to speak the technical language of ETL pipelines and data integration
+
+**Key Skills:** ETL Development, Data Quality Management, Star Schema Design, Window Functions, Stored Procedures, Data Integration
+
+**[📂 View Project](https://github.com/Vincds/sql-data-warehouse)**
+
+*Built following the excellent tutorial by [Data With Baraa](https://www.youtube.com/@datawithbaraa) - implemented hands-on to deepen understanding of data engineering fundamentals.*
+
 ---
 
 ## 📚 Currently Learning
